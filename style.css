@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(139, 0, 0, 0.884);
+    text-align: center;
+}
+
+.container {
+    border: solid 1px darkgray;
+    width: 500px;
+    height: 300px;
+    margin:100px auto;
+    background-color: red;
+}
+
+.input-box{
+    display: inline-block;
+}
+
+.calculate-btn{
+    display: block;
+    margin:20px auto;
+    background-color: gray;
+    color: whitesmoke;
+}
+
+#score-text{
+    visibility: hidden;
+}
+
